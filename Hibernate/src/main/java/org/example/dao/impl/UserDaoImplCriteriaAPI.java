@@ -7,7 +7,6 @@ import org.example.exceptions.ObjectNotFoundException;
 import org.example.model.User;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.TypedQuery;
